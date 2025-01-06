@@ -1,4 +1,4 @@
-
+```
   _______ __                _______             __                        
  |   _   |  |--.-----.-----|   _   .-----.---.-|  .--.--.-----.-----.----.
  |   1___|     |  _  |  _  |.  1   |     |  _  |  |  |  |-- __|  -__|   _|
@@ -8,8 +8,7 @@
  `-------'                 `--- ---'                                      
                                                                           
 
-
-
+```
 # ShopAnalyzer
 A tool for analyzing e-commerce sites, focusing on tracking implementations and analytics integrations. It helps identify platform types, validate tracking parameters, and monitor network requests.
 
