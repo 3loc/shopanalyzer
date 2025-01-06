@@ -39,11 +39,6 @@ ShopAnalyzer examines e-commerce sites for:
 
 Clone the ShopAnalyzer repository and ensure Docker is running. No additional installation is required for Docker-based execution.
 
-For local development:
-```bash
-make install  # Creates virtual environment and installs dependencies
-```
-
 ## Configuration
 
 Create a `sites.json` file in the project root:
@@ -141,10 +136,6 @@ NO_INTERCEPT=1      # Disable request interception
 ## Development
 
 Contributions should follow the existing code structure and include appropriate tests. See CONTRIBUTING.md for detailed guidelines.
-
-## License
-
-MIT License - See LICENSE file for details 
 
 ## Output Format
 
