@@ -1,0 +1,16 @@
+{
+    "sites": [
+        {
+            "name": "Example Store",
+            "url": "https://example-store.myshopify.com/collections/sale?utm_source=applovin&utm_medium=paid&utm_campaign=summer_sale&alart=test123&aleid=test456"
+        },
+        {
+            "name": "Headless Example",
+            "url": "https://headless-store.com/products?utm_source=applovin&utm_medium=social&utm_campaign=winter_collection"
+        },
+        {
+            "name": "Custom Domain Store",
+            "url": "https://www.custom-store.com/collections/new-arrivals?utm_source=applovin&utm_medium=display&utm_campaign=new_launch"
+        }
+    ]
+} 
